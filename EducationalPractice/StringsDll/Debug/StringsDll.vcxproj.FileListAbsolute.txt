@@ -1,0 +1,4 @@
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\StringsDll\Debug\StringsDll.dll
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\StringsDll\Debug\StringsDll.pdb
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\StringsDll\Debug\StringsDll.dll
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\StringsDll\Debug\StringsDll.pdb

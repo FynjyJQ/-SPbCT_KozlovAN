@@ -1,0 +1,11 @@
+﻿  EducationalPractice.cpp
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(25,23): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(155,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(157,28): warning C4477: "sprintf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "std::string"
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(157,28): warning C4477: "sprintf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "std::string"
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(178,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(182,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(189,28): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\EducationalPractice\EducationalPractice.cpp(161,35): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  EducationalPractice.vcxproj -> C:\Users\Daniil\source\repos\SPbCT_GorokhovDA\EducationalPractice\Debug\EducationalPractice.exe
+  Скопировано файлов: 0.
